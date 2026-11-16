@@ -21,16 +21,14 @@
 ![](https://komarev.com/ghpvc/?username=yourNEYONX-github-username&label=🥀💌+++&color=1E2A5A) 
 
 <a href="https://silly3.atabook.org/">
-  <img src="https://raw.githubusercontent.com/NEYONX/NEYONX/79a43ff7c7f0679a1eefd4523ebd5e82f561b648/usagi_transparent_fixed.gif" width="100">
+  <!-- Usagi -->
+<img src="./usagi_transparent_fixed.gif" width="100">
 </a> <---signata click usagi
 
 
 <div align="center" style="width:20%; overflow:hidden;">
 
-<img src="https://github.com/NEYONX/NEYONX/blob/NEYONX/395158383-85a154da-b27d-4fbf-802a-efca647aa8ce.gif"
-     style="width:80%; max-width:none; display:block;">
-
-</div>
+<img src="./395158383-85a154da-b27d-4fbf-802a-efca647aa8ce.gif" width="900">
 
 
 ![IMG_20241212_183505](https://github.com/user-attachments/assets/a6dfc4b3-7b5a-47a8-9e42-6cc27b147a89)
@@ -48,10 +46,7 @@
 
 <div align="center" style="width:50%; overflow:hidden;">
 
-<img src="https://github.com/NEYONX/NEYONX/blob/NEYONX/395158383-85a154da-b27d-4fbf-802a-efca647aa8ce.gif"
-     style="width:80%; max-width:none; display:block;">
-
-</div>
+<img src="./395158383-85a154da-b27d-4fbf-802a-efca647aa8ce.gif" width="900">
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=DotGothic16&size=20&duration=8000&pause=1200&color=5B8CFF&center=true&vCenter=true&width=600&lines=%EB%82%B4+%EC%9D%B4%EB%A6%84%EC%9D%84+%ED%95%9C+%EB%B2%88%EB%A7%8C+%EB%8D%94+%EB%B6%88%EB%9F%AC%EC%A3%BC%EC%84%B8%EC%9A%94+%E2%98%BE;still+with+you+%E2%98%81;me+and+you+%C2%B7+rain">
@@ -67,12 +62,8 @@
 </p>
 
 
-<div align="center" style="width:20%; overflow:hidden;">
-
-<img src="https://github.com/NEYONX/NEYONX/blob/NEYONX/rain_blue_fixed.gif"
-     style="width:80%; max-width:none; display:block;">
-
-</div
+<!-- Rain -->
+<img src="./rain_blue_fixed.gif" width="900">
 
 　　　　　　
  　　　˚　　　　　　　　　　.　　　　　　　
