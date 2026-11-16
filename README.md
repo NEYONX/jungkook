@@ -23,8 +23,6 @@
 <a href="https://silly3.atabook.org/">
   <!-- Usagi -->
 <img src="./usagi_transparent_fixed.gif" width="100">
-</a> <---signata click usagi
-
 
 <div align="center" style="width:20%; overflow:hidden;">
 
@@ -53,11 +51,14 @@
   </a>
 </p>
 
-  <p align="center">
-  <a href="https://open.spotify.com/track/0eFMbKCRw8KByXyWBw8WO7">
-    <img src="https://github.com/NEYONX/NEYONX/blob/NEYONX/4e47c195a7b46aabd07486585f4eceba.jpg" width="120">
+  <!-- Jungkook Album - Still With You -->
+<p align="center">
+  <a href="https://open.spotify.com/track/0eFMbKCRw8KByXyWBw8WO7" target="_blank">
+    <img src="https://raw.githubusercontent.com/NEYONX/jungkook/NEYONX/4e47c195a7b46aabd07486585f4eceba.jpg" width="236">
   </a>
+
   <br>
+
   <img src="https://readme-typing-svg.demolab.com/?font=Silkscreen&size=18&duration=9999&pause=1200&color=FF4D5A&center=true&vCenter=true&width=500&lines=Still+With+You+-+Jung+Kook">
 </p>
 
